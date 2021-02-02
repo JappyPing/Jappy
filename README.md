@@ -1,2 +1,2 @@
-# PingPy.github.io
+# PING
 PING's Homepage
