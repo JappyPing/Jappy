@@ -1,2 +1,2 @@
-# Jappy
+# Ping
 Jappy's Homepage
